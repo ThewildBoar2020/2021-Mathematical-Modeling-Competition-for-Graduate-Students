@@ -1,0 +1,5 @@
+y1 = sim(Abnormal4D_XYZ_8,[2230;3230;4910;5180])
+y2 = sim(Abnormal4D_XYZ_8,[4520;1990;5600;3360])
+y3 = sim(Abnormal4D_XYZ_8,[2480;3530;4180;5070])
+y4 = sim(Abnormal4D_XYZ_8,[4220;2510;4670;3490])
+y5 = sim(Abnormal4D_XYZ_8,[5150;2120;5800;2770])
